@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535825505 source:c:\users\vit\desktop\poryectodeprueba\main.c
+	<stdio.h>
+	<stdlib.h>
+
